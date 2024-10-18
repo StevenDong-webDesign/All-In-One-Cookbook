@@ -1,0 +1,38 @@
+#titleText1 {
+        color: white;
+        top: 36%;
+        position: relative; 
+        border:double;
+        font-family: cursive; 
+  
+        background-color: rgba(255, 181, 131, 0.39);
+    }
+
+
+.links {
+        text-align-last: center;
+        font-family: cursive;
+        font-size: 30px;
+        margin-top: 5px;
+    }
+
+
+.foodImg {
+        width: 75%;
+        position: relative;
+        left: 13%;
+    }
+.foodimgText {
+        text-align-last: center;
+    }
+
+
+
+
+
+
+#titleText2 {
+        color:darkorange ;
+        font-family: cursive; 
+ 
+    }
